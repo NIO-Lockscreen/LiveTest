@@ -1,0 +1,10 @@
+{
+  "name": "livetest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Car Lockscreen video layout test page (static site)",
+  "scripts": {
+    "dev": "npx vercel dev",
+    "deploy": "npx vercel --prod"
+  }
+}
